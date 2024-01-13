@@ -36,4 +36,4 @@ go run main.go -file ./sample_inputs/sample-input.yml
 ```
 
 
-Note: Replace `./sample_inputs/sample-input.yml` with `path/to/your/custom-file.yaml` containing endpoint information.
+Note: To run a custom file replace `./sample_inputs/sample-input.yml` with `path/to/your/custom-file.yaml` containing endpoint information.
