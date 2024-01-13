@@ -27,8 +27,8 @@ domain-monitoring-tool
 # How to run the program
 1. Clone the repo:
 ```
-git clone <repository_url>
-cd <repository_directory>
+git clone git@github.com:vraj9845/Domain-Monitoring-Tool.git
+cd Domain-Monitoring-Tool
 ```
 2. Paste the below command to run the tool:
 ```
